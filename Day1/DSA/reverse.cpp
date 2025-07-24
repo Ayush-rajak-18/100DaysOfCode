@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int reverseNumber(int n) {
+int reverseNumber(int n) { 
     int reversed = 0;
     while (n > 0) {
         int digit = n % 10;
