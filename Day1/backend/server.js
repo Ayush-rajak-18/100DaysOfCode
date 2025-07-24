@@ -3,7 +3,7 @@ const app = express();
 const userRoutes = require("./routes/userRoutes");
 const PORT = 3001;
 
-app.use(express.json());
+app.use(express.json()); 
 
 // Home test route
 app.get("/", (req, res) => {
