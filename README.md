@@ -15,14 +15,6 @@ Each day includes:
 - 🛠️ Backend project/code
 - 📄 A daily README summary
 
-
-## 📌 Progress
-
-| Day | Summary | Link |
-|-----|---------|------|
-| Day 1 | Palindrome, Reverse Number, Express API setup | [Go to Day 1](.https://github.com/Ayush-rajak-18/100DayOfCode/blob/main/) |
-
-
 ### 🔗 Connect With Me
 📧 [ayurjk008@gmail.com](mailto:ayurjk008@gmail.com)  
 📎 [LinkedIn](https://www.linkedin.com/in/ayush-rajak-677a3a245/)  
