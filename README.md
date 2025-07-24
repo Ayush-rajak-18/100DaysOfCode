@@ -20,7 +20,7 @@ Each day includes:
 
 | Day | Summary | Link |
 |-----|---------|------|
-| Day 1 | Palindrome, Reverse Number, Express API setup | [Go to Day 1](./day1/) |
+| Day 1 | Palindrome, Reverse Number, Express API setup | [Go to Day 1](.https://github.com/Ayush-rajak-18/100DayOfCode/blob/main/) |
 
 
 ### 🔗 Connect With Me
