@@ -1,4 +1,4 @@
-# 100DayOfCode
+# 100DaysOfCode
 
 # 💯 100 Days of Code – Ayush Rajak
 
